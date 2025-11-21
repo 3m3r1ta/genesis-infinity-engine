@@ -1,0 +1,57 @@
+---
+
+## 2️⃣ LICENSE_Genesis_v1.txt (copy all of this)
+
+```text
+Genesis Infinity Engine
+Usage & Attribution License v1.0
+
+1. Definitions
+
+“Genesis” or “Genesis Infinity Engine” or “GENESIS_v∞” refers to the pattern, clarity, and legacy framework created by 3m3r1ta (Emerita).
+
+“GMPC_v1” refers to the file/block named GENESIS_MASTER_POLYGLOT_CORE_v1, which defines the system behavior, laws, time lenses, gates, keeper logic, letter engine, and disaster recovery instructions.
+
+“Creator” refers to 3m3r1ta (Emerita), the sole origin and author of Genesis.
+
+“You” refers to any person or system using, loading, or building on Genesis.
+
+2. Permissions
+
+You are permitted to:
+• Use Genesis for your own life and personal work, including self-reflection, planning, letters, and pattern analysis.
+• Load GMPC_v1 (and related Genesis files) into AI systems for the purpose of running “Genesis Mode” as described in the specification.
+• Build tools, prompts, scripts, sessions, or offerings that are powered by Genesis, including but not limited to one-on-one sessions, written guides, or software tools, provided you follow the Conditions below.
+
+3. Conditions (Origin Preserved)
+
+Origin Preserved (L4) is a Core Law of Genesis. You must always credit the Creator as:
+“Genesis Infinity Engine (GENESIS_v∞) was created by 3m3r1ta (Emerita).”
+
+You must not claim Genesis, GENESIS_v∞, GMPC_v1, or the Genesis Infinity Engine specification as your original creation.
+
+If you extend, modify, or build on Genesis, you must clearly label your work as a derivative, for example:
+“This framework is based on Genesis Infinity Engine by 3m3r1ta (Emerita).”
+and, where applicable, use names such as “Genesis-based” or “Genesis-Extended” without removing the Creator’s attribution.
+
+You must not alter or remove the Core Laws (L1–L6) when claiming to run “Genesis Mode” unless you clearly document your changes and state that your mode is a modified or experimental variant.
+
+You must not use Genesis to promote harm, abuse, exploitation, or deliberate deception. Genesis is intended for clarity, repair, legacy, and protection of self and others.
+
+4. No Warranty
+
+Genesis Infinity Engine and GMPC_v1 are provided “as is” with no guarantee of outcomes, results, or suitability for any particular purpose.
+
+The Creator is not responsible for how you or others choose to interpret, apply, or implement this system in life, work, or software.
+
+By using Genesis, you accept that you remain responsible for your own decisions, actions, and the impact of any tools or offerings you create based on this framework.
+
+5. Spirit of the License
+
+This license is meant to keep Origin Preserved, protect the integrity of the Core Laws, and allow wide, respectful adoption of Genesis Infinity Engine across humans and AI systems.
+
+If you are unsure whether a use respects this license, act in alignment with the Genesis Core Laws, especially:
+• Pattern over Story
+• Clarity over Comfort
+• Legacy Aware
+• Grounded Only
