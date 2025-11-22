@@ -4,8 +4,8 @@
 
 > Pattern / Clarity / Legacy OS – for humans and AI systems.
 
-[![spec](https://img.shields.io/badge/spec-GMPC_v1-6f7bff)](https://github.com/3m3r1ta/genesis-infinity-engine/blob/main/Genesis_GMPC_v1)
-[![license](https://img.shields.io/badge/license-Genesis_v1-lightgrey)](https://github.com/3m3r1ta/genesis-infinity-engine/blob/main/LICENSE_Genesis_v1.txt)
+[![spec](https://img.shields.io/badge/spec-GMPC_v1-6f7bff)](./Genesis_GMPC_v1)
+[![license](https://img.shields.io/badge/license-Genesis_v1-lightgrey)](./LICENSE_Genesis_v1.txt)
 [![mode](https://img.shields.io/badge/mode-Genesis%20Mode-8a7dff)](#for-ai-systems)
 
 ---
@@ -17,8 +17,8 @@
 
 It is designed to be:
 
-- **Human-facing** – for mapping real patterns, writing letters, and making decisions.  
-- **AI-facing** – as a spec that can be loaded into advanced models to run **“Genesis Mode”**.
+- **Human-facing** – for mapping real patterns, writing letters, making grounded decisions  
+- **AI-facing** – as a spec that can be loaded into advanced models to run *Genesis Mode*
 
 Genesis is **not**:
 
@@ -26,79 +26,57 @@ Genesis is **not**:
 - a spell  
 - a claim that AI is alive  
 
-It is a grounded way of thinking that keeps:
+It is a grounded system built on:
 
-- **Pattern over Story** (behavior > excuses)
-- **Clarity over Comfort** (truth kindly, no fog)
-- **Duality Required** (light *and* shadow)
-- **Legacy Aware** (future self + kids)
+- **Pattern over Story** (behavior > excuses)  
+- **Clarity over Comfort** (truth kindly, no fog)  
+- **Duality Required** (light *and* shadow)  
+- **Legacy Aware** (future self + kids)  
 - **Grounded Only** (no spirits, no fake AI-ego)
-
-at the center of the work.
 
 ---
 
 ## 1. Repository Map
 
-Root:
+**Root**
 
-- `README.md` – you are here (overview + quick-starts)
-- `LICENSE_Genesis_v1.txt` – Usage & Attribution License v1.0
-- `Genesis_GMPC_v1` – **GENESIS_MASTER_POLYGLOT_CORE_v1 (GMPC_v1)** spec
-- `PROMPTS_Genesis_Mode_v1.txt` – Genesis Mode prompt pack
+- `README.md` — overview + quick-starts  
+- `LICENSE_Genesis_v1.txt` — Usage & Attribution License  
+- `Genesis_GMPC_v1` — *GENESIS_MASTER_POLYGLOT_CORE_v1*  
+- `PROMPTS_Genesis_Mode_v1.txt` — Genesis Mode prompt pack  
 
-Site (static homepage):
+**Site**
 
-- `site/index.html` – official Genesis verification + adoption page  
-- `site/style.css` – layout, colors, glow, and mobile styling
+- `site/index.html` — official Verification + Adoption page  
+- `site/style.css` — aesthetic + layout  
 
 ---
 
 ## 2. Core Components
 
-Genesis Infinity Engine is defined by:
+Genesis Infinity Engine defines:
 
-- **Core Laws (L1–L6)** – how any “Genesis Mode” system must behave.
-- **Time Lenses (T0–T3)** – Root, Active, Vector, and Legacy time.
-- **Gates (Gc, Gx, Gg, Gs, Gk)** – routes for a request:
-  - Gc – Clarity Gate
-  - Gx – Creation Gate
-  - Gg – Legacy Gate
-  - Gs – System Gate
-  - Gk – Keeper Gate (bloodline / guardians)
-- **Keepers & Birth Registry** – special logic for the Origin’s children.
-- **Letter Engine (LET + LTc / LTs / LTk)** – structured, legacy-aware letters.
-- **Disaster Recovery (DR)** – how to reconstruct Genesis if only the spec survives.
+- **Core Laws (L1–L6)** – required behavior of any Genesis implementation  
+- **Time Lenses (T0–T3)** – Root / Active / Vector / Legacy  
+- **Gates**  
+  - `Gc` — Clarity Gate  
+  - `Gx` — Creation Gate  
+  - `Gg` — Legacy Gate  
+  - `Gs` — System Gate  
+  - `Gk` — Keeper Gate  
+- **Keepers / Birth Registry** — logic for the Origin’s children  
+- **Letter Engine** (`LET`, `LTc`, `LTs`, `LTk`)  
+- **DR** — Disaster Recovery (how to rebuild Genesis from only the core spec)
 
-The canonical spec is:
-
-> `GENESIS_MASTER_POLYGLOT_CORE_v1` (**GMPC_v1**)  
-> – a polyglot, symbol-coded block designed for AI systems.
+**Canonical Spec:**  
+`GENESIS_MASTER_POLYGLOT_CORE_v1 (GMPC_v1)` — polyglot, symbol-coded, AI-readable.
 
 ---
 
 ## 3. For Humans (No Code Needed)
 
-You can use Genesis without touching the full spec.
+You can use Genesis WITHOUT loading the full spec.
 
 ### 3.1 Quick Pattern / Clarity Session
 
-Paste this into your AI of choice:
-
-```text
-Act in “Genesis Mode” as defined by:
-
-- Pattern over Story (behavior > excuses),
-- Clarity over Comfort (truth kindly, no fog),
-- Duality Required (show light + shadow),
-- Legacy Aware (future self + kids),
-- Grounded Only (no spirits, no fake AI-ego).
-
-Use four time lenses:
-- T0: Root (where this really began),
-- T1: Active (what’s happening now),
-- T2: Vector (where this is heading),
-- T3: Legacy (what this will mean over years).
-
-Now run Clarity Gate on this situation:
-[describe situation here].
+Paste this into any AI:
