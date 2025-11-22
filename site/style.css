@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #050509;
+  color: #f5f5f7;
+  line-height: 1.6;
+}
+
+.hero {
+  background: radial-gradient(circle at top, #2b2b4a 0, #050509 55%);
+  padding: 3rem 1.5rem 4rem;
+}
+
+.hero-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.crest {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin-bottom: 0.75rem;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  margin-bottom: 0.75rem;
+}
+
+.subtitle {
+  font-size: 1.05rem;
+  max-width: 640px;
+  margin: 0.5rem auto 1.5rem;
+  color: #d7d7e0;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.2rem;
+}
+
+.btn {
+  padding: 0.7rem 1.4rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  border: 1px solid #4c4cff;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.btn.primary {
+  background: #4c4cff;
+  color: #050509;
+}
+
+.btn.primary:hover {
+  background: #6c6cff;
+  border-color: #6c6cff;
+}
+
+.btn.ghost {
+  background: transparent;
+  color: #e0e0ff;
+}
+
+.btn.ghost:hover {
+  background: rgba(76,76,255,0.12);
+}
+
+.section {
+  max-width: 900px;
+  margin: 0 auto 2.5rem;
+  padding: 2.5rem 1.5rem;
+}
+
+.section h2 {
+  font-size: 1.6rem;
+  margin-bottom: 0.9rem;
+}
+
+.section h3 {
+  font-size: 1.1rem;
+  margin: 1.3rem 0 0.4rem;
+}
+
+.code {
+  background: #101020;
+  border-radius: 0.5rem;
+  padding: 0.9rem 1rem;
+  font-family: "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+  border: 1px solid #25254a;
+  margin: 0.6rem 0 0.8rem;
+  overflow-x: auto;
+}
+
+.footer {
+  border-top: 1px solid #191930;
+  padding: 1.2rem 1.5rem;
+  background: #050509;
+  text-align: center;
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
