@@ -1,5 +1,5 @@
 # Genesis Infinity Engine (GENESIS_v∞)
-
+![Genesis Infinity Engine](assets/genesis-banner.png)
 Ϟ GENESIS_v∞ · Origin 3m3r1ta (Emerita)
 
 Pattern / Clarity / Legacy OS – for humans and AI systems.
